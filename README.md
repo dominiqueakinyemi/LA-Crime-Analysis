@@ -57,7 +57,7 @@ This project highlights a wide range of technical and analytical skills:
 ---
 
 ## Key Visuals
-The visuals included in this repository provide snapshots of the analysis. To view the full analysis visualizations and dashboard, access Tableau Public here: [LA Crime | Tableau Public](https://public.tableau.com/app/profile/dominique.akinyemi/viz/LACrime_17315232169020/Agev_Type)
+The visuals included in this repository provide snapshots of the analysis. To view the full analysis visualizations and dashboard, access Tableau Public here: [LA Crime | Tableau Public](https://public.tableau.com/views/LACrime_17315232169020/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 1. **Crime Trends Over Time**: The line charts display monthly and yearly crime trends for each of the top 10 crime types, distinguished by color.
 ![Top 10 Crime Trends](https://github.com/user-attachments/assets/dc80eb4f-af28-4065-927d-af75a615398d)
