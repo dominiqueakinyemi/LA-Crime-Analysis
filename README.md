@@ -78,7 +78,7 @@ This project was conducted as part of a portfolio to demonstrate my skills as a 
 ---
 
 ## Repository Contents
-1. `LA_Crime_v4.Rmd`: The documentation in R Markdown format, with easy to copy SQL scripts for replication of this analysis.
-2. `LA_Crime_v4.pdf`: The final project report, containing detailed insights, visualizations, and recommendations in a visual format.
+1. LA_Crime_v4.Rmd: The documentation in R Markdown format, with easy-to-copy SQL scripts to replicate this analysis.
+2. [LA_Crime_Analysis.pdf](https://github.com/user-attachments/files/17951747/LA_Crime_Analysis.pdf): The final project report, containing detailed insights, visualizations, and recommendations in a visual format.
 
 ---
