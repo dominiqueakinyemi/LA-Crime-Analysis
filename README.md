@@ -53,7 +53,7 @@ This project highlights a wide range of technical and analytical skills:
 ### Reporting Delays
 - Most crimes are reported within **three days**, with **assault** cases often filed immediately. However, **fraud** and **identity theft** show longer delays, reflecting the time needed to recognize these incidents.
 
-### Modus Operandi (M.O.) Insights
+### Modus Operandi (M.O.)
 - **Theft-related M.O.s** dominate, accounting for over **40%** of all incidents. Common tactics include stealth actions like “**Suspect removes item without detection**.”
 - **Strong-arm methods**, such as physical force, are frequently reported in robbery and assault cases, particularly in public spaces like streets and sidewalks.
 
