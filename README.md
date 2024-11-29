@@ -1,6 +1,7 @@
 # Analyzing Crime Trends and Hot Spots in Los Angeles
 
 Click here to download the full project documentation as a PDF file: [LA Crime Analysis](https://github.com/user-attachments/files/17951779/LA_Crime_Analysis.pdf)
+Or access Tableau dashboard: [LA Crime Dashboard](https://public.tableau.com/app/profile/dominique.akinyemi/viz/LACrime_17315232169020/LACrimeOverview)
 
 ## Project Overview
 This project explores crime data in Los Angeles (2020–2024), uncovering critical trends across time, geography, and demographics. By using SQL for data transformation and Tableau for visualization, the analysis provides actionable insights for law enforcement, policymakers, and the general public. The focus is on identifying patterns that can guide resource allocation, community engagement, and public safety strategies.
@@ -59,7 +60,7 @@ This project highlights a wide range of technical and analytical skills:
 ---
 
 ## Key Visuals
-The visuals included in this repository provide snapshots of the analysis. To view the full analysis visualizations and dashboard, access Tableau Public here: [LA Crime | Tableau Public](https://public.tableau.com/views/LACrime_17315232169020/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+The visuals included in this repository provide snapshots of the analysis. To view the full analysis visualizations and dashboard, access Tableau Public here: [LA Crime Dashboard](https://public.tableau.com/app/profile/dominique.akinyemi/viz/LACrime_17315232169020/LACrimeOverview)
 
 1. **Crime Trends Over Time**: The line charts display monthly and yearly crime trends for each of the top 10 crime types, distinguished by color.
 ![Top 10 Crime Trends](https://github.com/user-attachments/assets/dc80eb4f-af28-4065-927d-af75a615398d)
